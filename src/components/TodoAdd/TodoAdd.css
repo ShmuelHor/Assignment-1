@@ -1,3 +1,4 @@
+
 .TodoAdd{
     display: flex;
     justify-content: center;
@@ -6,12 +7,14 @@
     height: 10vh;  
 }
 .inputTodo{
+    background-color: rgba(127, 255, 212, 0.082);
     margin: 10px;
     padding: 2px 10px;
     border: 1px solid black;
     border-radius: 5px;
 }
 .btnAdd{
+    color: aliceblue;
     padding: 2px 10px;
     border: 1px solid black;
     border-radius: 5px;

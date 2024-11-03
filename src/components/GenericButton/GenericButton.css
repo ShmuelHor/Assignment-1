@@ -18,6 +18,7 @@
 .GenericButton.Delete-Button {
     background-color: var(--mainColor);
     float: right;
+    color: aliceblue;
 }
 
 .GenericButton.Update-Button {
